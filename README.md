@@ -1,5 +1,5 @@
 # Feature-Analyzer-1.0
- stand-alone software tool for EEG feature analysis
+
 Welcome to Feature Analyzer!
 Thank you for selecting the Feature Analyzer to meet your feature extraction requirements. 
 The Feature Analyzer is a robust tool for swiftly and accurately extracting features from your time series data. The user-friendly interface facilitates the selection and execution of various feature extraction algorithms. This guide will assist you in efficiently and effectively utilizing our software.
